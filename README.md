@@ -1,1 +1,1 @@
-# learn_ubuntu
+# linux_learn
